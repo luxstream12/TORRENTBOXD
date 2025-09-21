@@ -1,1 +1,16 @@
-
+[
+  {
+    "id": 1,
+    "titulo": "Moana 2",
+    "preco": 5,
+    "link": "https://drive.google.com/SEU_LINK_AQUI",
+    "descricao": "Uma aventura pelos mares."
+  },
+  {
+    "id": 2,
+    "titulo": "Deadpool & Wolverine",
+    "preco": 7,
+    "link": "https://drive.google.com/SEU_LINK_AQUI",
+    "descricao": "Heróis caóticos em ação."
+  }
+]
